@@ -6,12 +6,19 @@
 
 #Este projeto visa criar um formulário para cadastro de Equipamentos de Proteção em Sistema de Bancos de Dados utilizando a linguagem de programação Python, código desenvolvido durante curso de Python;
 
-#Com o código conseguiremos:
-  - Adicionar os equipamentos em bancos de dados;
-  - Consulta-los (Nome e CA);
-  - Excluir determinado equipamentos.
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Adicionar as entradas de equipamentos de proteção individual em Banco de Dados
+- `Funcionalidade 2`: Consultar os Equipamentos através do Nome e CA - Certificado de aprovação
+- `Funcionalidade 3`: Excluir determinado equipamento de proteção
+
 
 #Meu desafio final para este projeto será criar um pop-up com as interações acima utilizando a biblioteca do PySimpleGUI
+
+
+#Instalação da biblioteca de themes do PySimpleGUI 
+  - No terminal Python digite: **pip install PySimpleGUI** e aguarde a instalação.
+  
 
 #Autor
 
