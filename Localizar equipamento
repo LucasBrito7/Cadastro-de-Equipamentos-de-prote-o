@@ -1,0 +1,8 @@
+#LOCALIZAÇÃO DE ITEM DENTRO DO BANCO DE DADOS CRIADO
+
+busca=input("Digite o nome do equipamento que deseja buscar: ")
+  for equipamento in inventario:
+    if busca==elemento[0]:
+      print("Valor...: ", elemento[1])
+      print("CA....: ", elemento[2])
+      
